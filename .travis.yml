@@ -9,3 +9,4 @@ before_script:
   - bundle exec rails s -d
 script: 
   - echo "Build Success"
+  
